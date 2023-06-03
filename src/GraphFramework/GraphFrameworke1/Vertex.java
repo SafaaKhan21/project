@@ -6,6 +6,7 @@ public class Vertex {
   private String label;
   private ArrayList<Edge> edges;
   private boolean isVisited;
+   g.setisDirected(true);
 
 
 //-------------------------------------------------------------
